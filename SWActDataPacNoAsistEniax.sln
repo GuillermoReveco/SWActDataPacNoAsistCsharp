@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWActDataPacNoAsistEniax", "SWActDataPacNoAsistEniax\SWActDataPacNoAsistEniax.csproj", "{C98EFE17-676E-43B8-959A-3F316BC3B3CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ServicioWindowsActDataPacNoAsistEniax", "ServicioWindowsActDataPacNoAsistEniax\ServicioWindowsActDataPacNoAsistEniax.vdproj", "{2CCCD15E-B0BD-495C-9354-390CBC70CA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98EFE17-676E-43B8-959A-3F316BC3B3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98EFE17-676E-43B8-959A-3F316BC3B3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98EFE17-676E-43B8-959A-3F316BC3B3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98EFE17-676E-43B8-959A-3F316BC3B3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCCD15E-B0BD-495C-9354-390CBC70CA0E}.Debug|Any CPU.ActiveCfg = Debug
+		{2CCCD15E-B0BD-495C-9354-390CBC70CA0E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4951A4B8-4B8A-41E0-9AA9-0C5361B68A69}
+	EndGlobalSection
+EndGlobal
